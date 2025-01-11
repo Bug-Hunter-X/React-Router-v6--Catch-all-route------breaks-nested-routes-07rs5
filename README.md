@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router v6 where a catch-all route (`/*`) interferes with nested routes, preventing navigation to nested paths.  The `bug.js` file shows the problematic code, while `bugSolution.js` provides a solution.
